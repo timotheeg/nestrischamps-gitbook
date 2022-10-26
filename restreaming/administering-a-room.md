@@ -6,9 +6,9 @@ If you have not setup your OBS browser source, please do so first:
 [setup-obs-browser-source.md](../setup-obs-browser-source.md)
 {% endcontent-ref %}
 
-Use [Admin Panel](https://nestrischamps.herokuapp.com/room/admin) to administer a room.
+Use [Admin Panel](https://nestrischamps.io/room/admin) to administer a room.
 
-![Admin UI](https://nestrischamps.herokuapp.com/docs/admin\_ui.png)
+![Admin UI](https://nestrischamps.io/docs/admin\_ui.png)
 
 In the Admin Panel, you get to see who is connected to the room, and select the desired producers as player 1 and player 2.
 

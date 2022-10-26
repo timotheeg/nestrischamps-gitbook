@@ -4,7 +4,7 @@
 This section assumes basic knowledge about [Streamlabs OBS](https://streamlabs.com/) and/or vanilla [OBS](https://obsproject.com/)
 {% endhint %}
 
-First, retrieve the `URL` of your favorite renderer from [https://nestrischamps.herokuapp.com/renderers](https://nestrischamps.herokuapp.com/renderers) (Twitch account required for registration).
+First, retrieve the `URL` of your favorite renderer from [https://nestrischamps.io/renderers](https://nestrischamps.herokuapp.com/renderers) (Twitch account required for registration).
 
 Once you have it, create a `Browser Source` in OBS, and put the link of your favorite renderer into `URL`.
 
@@ -12,7 +12,7 @@ A 720p (1280x720) canvas at 60 `FPS` is recommended, which is a good compromise 
 
 The `Browser Source` setup should end up looking like this:
 
-![OBS browser source configuration panel](https://nestrischamps.herokuapp.com/docs/streamlabs\_browser\_source.png)
+![OBS browser source configuration panel](https://nestrischamps.io/docs/streamlabs\_browser\_source.png)
 
 Next, if you are a streamer:
 
